@@ -6,7 +6,7 @@ const app = new Hono().basePath('/api')
 
 app.get('/hello', (c) => {
   return c.json({
-    message: 'Hello from Hono on Vercel!'
+    message: 'Hello from Hono on Vercel! by Joodi 👋'
   })
 })
 
