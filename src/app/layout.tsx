@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "First Hono.js and Next.js project",
+  title: "Hono.js and Next.js project",
   description: "joodi.me",
 };
 
